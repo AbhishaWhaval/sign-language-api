@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+mediapipe
+opencv-python-headless
+numpy
+joblib
+transformers
+torch
+python-multipart
+requests
